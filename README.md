@@ -1,3 +1,18 @@
+## Fuck FuckadblockWhat?
+> **Filters for blocking pop-ups and anti-adblock bypass.
+
+## UseHow?
+> ** You can add this list to yourself using this button — subscribe
+
+Or add it manually using this RAW link — https://raw.githubusercontent.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+
+CDNWhy?
+https://raw.githack.com/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
+https://cdn.jsdelivr.net/gh/bogachenko/fuckfuckadblock/fuckfuckadblock.txt
+LicenseSo?
+MIT License.
+
 ##Anti-Adblock Killer | Reek
 ![Anti-Adblock Killer](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/header.png)
 
